@@ -1,0 +1,19 @@
+class Variable14
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Welcome to the Variable Example");
+		byte A= 15,B= 20;
+		int C=20,D=25;
+		double E= 30,    F= 20;
+		double G= 15.20, H= 16;
+		float  I=20.20f, J= 20.20f;
+		float  K=50,     L= 70;
+		System.out.println("A+B="+(A+B));
+		System.out.println("C+D="+(C+D));
+		System.out.println("E*F="+(E*F));
+		System.out.println("G+H="+(G+H));
+		System.out.println("I+J="+(I+J));
+		System.out.println("K+L="+(K+L));
+}
+}

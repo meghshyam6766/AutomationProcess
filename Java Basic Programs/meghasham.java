@@ -1,0 +1,12 @@
+class Meghasham 
+{
+	static double A=25,B=5;
+	public static void main(String[] args) 
+	{
+		System.out.println("A+B="+(A+B));
+	}
+
+	{	
+		System.out.println("A/B="+(A/B));
+	}
+}
